@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+*.dcm
+Duke-Breast-Cancer-MRI/
+manifest-*/
+*.pth
+*.pt
+
 # C extensions
 *.so
 
