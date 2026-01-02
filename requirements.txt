@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+pydicom
+SimpleITK
+matplotlib
+torchmetrics
+Pillow
